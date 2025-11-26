@@ -55,11 +55,9 @@ def listing_students():
     print(f"{student["name"]} - {student["id"]} - {student["DoB"]}\nn")
 
 def listing_mark():
-  while True:
     course_id = input("Enter course id: ")
     if course_id not in marks:
       print("No course found")
-      break
 
     for i in marks[course_id]:
       id = i["student_id"]
