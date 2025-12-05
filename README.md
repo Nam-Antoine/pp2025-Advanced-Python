@@ -2,7 +2,7 @@
 
 - Your student ID: 2410702
 - Your name: Tran Khoa Nam
-- Your class: ICT-DD
+- Your class: ICT-2
 
 
 
